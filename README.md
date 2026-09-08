@@ -40,7 +40,7 @@ This project was built as a frontend practice project to work with semantic HTML
 
 ## Live Demo
 
-[View the live project](#)
+[View the live project](https://kinanedev.me/leaf-and-brew-preferences/)
 
 ## Author
 
